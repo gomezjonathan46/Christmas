@@ -1,1 +1,1 @@
-body{margin:0}audio{display:none}img{height:100vh;width:100vw;padding:0}.white-cover{background:rgba(255,255,255,0.3);position:absolute;top:0;left:0;width:100vw;height:100vh}
+body{margin:0}audio{display:none}.hero .hero-image{height:100vh;width:100vw;padding:0;z-index:1}.hero .white-cover{background:rgba(255,255,255,0.6);position:absolute;top:0;left:0;width:100vw;height:100vh;z-index:2}.hero .hero-logo{width:100vw;height:100vh;z-index:3;position:absolute;top:0;left:0}
